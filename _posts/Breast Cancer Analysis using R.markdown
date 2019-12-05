@@ -70,6 +70,7 @@ It's considered to be one of the most useful ML algorithms, also it is suitable 
 
 
 ## 3.2. Naive Bayes
+
 The Naive Bayes classifiers are working based on the Bayes' theorem, which describes the probability of an event based on prior knowledge of conditions be related of conditions to the event.
 Bayes' Theorem: P(A|B) = (P(B|A) * P(A)) / P(B)
 <img src="https://amanybahaaeldin.github.io/assets/images/Naive Bayes.png">
@@ -85,8 +86,9 @@ Bayes' Theorem: P(A|B) = (P(B|A) * P(A)) / P(B)
 
 
 ## 3.3. KNN 
+
 In k-NN classification, the output is a class membership. An object is classified by a plurality vote of its k nearest neighbors.
-<img src="https://amanybahaaeldin.github.io/assets/images/KNN.png">
+<img src="https://amanybahaaeldin.github.io/assets/images/kNN.png">
 <figcaption class="caption">KNN</figcaption>
 
 
