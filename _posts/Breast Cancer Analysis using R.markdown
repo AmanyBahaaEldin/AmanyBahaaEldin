@@ -63,6 +63,11 @@ A Decision Tree is a supervised Machine Learning algorithm wherein each node rep
 It's considered to be one of the most useful ML algorithms, also it is suitable for our dataset as it is used extensively for diagnosis of diseases such as breast cancer, ovarian cancer, heart sound diagnosis, etc. 
 <img src="https://amanybahaaeldin.github.io/assets/images/Decision Tree.png">
 <figcaption class="caption">Decision Tree</figcaption>
+<ol>
+<li>Accuracy = 92.1%</li>
+<li>Sensitivity = 93.1%</li>
+<li>Specificity = 90.68%</li>
+</ol>
 
 
 
