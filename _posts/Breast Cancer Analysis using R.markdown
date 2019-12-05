@@ -89,9 +89,7 @@ Bayes' Theorem: P(A|B) = (P(B|A) * P(A)) / P(B)
 
 In k-NN classification, the output is a class membership. An object is classified by a plurality vote of its k nearest neighbors.
 <img src="https://amanybahaaeldin.github.io/assets/images/kNN.png">
-<figcaption class="caption">KNN</figcaption>
-
-
+<figcaption class="caption">kNN</figcaption>
 <ol>
 <li>Accuracy = 96.67%</li>
 <li>Sensitivity = 99.47%</li>
